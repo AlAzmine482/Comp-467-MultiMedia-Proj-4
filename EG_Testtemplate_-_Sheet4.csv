@@ -1,0 +1,10 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,3/19/2024,In game,design feature: When attack the user directly the health of the user can become unreadable due to the black font and the black background when gettign the user's health low,I expected to see the opponnets health throught the game,I can't see my opponent's helath because the healthbar background(black was the same color as the text of their health,yes,no,Mansoor Amza
+2,3/19/2024,Arena page,"bug: After clicking arena, I can't go back to main page by clicking the back arrow",I expected to go back the main page,I am stuck on the arena page,yes,yes,Mansoor Amza
+3,3/19/2024,Arena page,bug: I can't go to the home page after clicking the home button,I expected to go back to the home page after clicking the home button,I am stuck in the arena page,yes,yes,Mansoor Amza

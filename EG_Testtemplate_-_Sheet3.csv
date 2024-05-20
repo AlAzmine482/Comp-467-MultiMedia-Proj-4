@@ -1,0 +1,12 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,3/12/2024,Deck Tutorial,bug: can't put special characters in naming the deck,I expected to put any character I want in naming the deck,I can't put any characters in naming the deck,Yes,no,Mansoor Amza
+2,3/12/2024,Arena/In game,user case: Had one purple card on field and wouldn't activate automatically,I expected it to activate automatically,I have to manually slect it to activate it,yes,no,Mansoor Amza
+3,3/12/2024,Aren/In game,bug: can't play the game. Stuck on a screen playing music,I expected to be playing the game righ away,I am stuck on the arena screen where I only hear battle music,no,Yes,Mansoor Amza
+4,3/12/2024,Arena/In game,user case: I was in a middle of a battle and I had to login again,I thought I was going to be playing a normal game,I had to login again while playing,no,yes,Mansoor Amza
+5,3/12/2024,Authenticating page,user case: After being interuppted in my battle I was told to login. So i did and I'm stuck on the page just waiting listening to the battle music,I expected to login like normal,I am stuck in the authenticating page where I hear the battle music,no,Yes,Mansoor Amza
