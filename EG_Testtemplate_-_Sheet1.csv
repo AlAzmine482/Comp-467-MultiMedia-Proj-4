@@ -1,0 +1,14 @@
+Test #,Build #,Category,Test Case,Expected Result,Actual Result,Repeatable?,Blocker?,Test Owner
+0,"Use date you 
+tested on
+2/19/2024",Login/UI/Game/Main Page,"Type the bug or user case to note here
+ex bug: clicking exit doesn't exit
+ex user case: timers take too long",What you expect to happen,What actually happened,yes/no,Yes/no,"Your name
+ex: Kevin Chaja"
+1,2/27/2024,Main page,Main page is white and blank while trying to load/render,I expected a main page and I didn't get any,I am met with a blank white screen because it took too long for the main page to load,no,no,Mansoor Amza
+2,2/27/2024,Main page,Main page took a while to load when scrolling too fast,A fully rendered main page,As I scrolled fast down it was still trying to load in the contnet,yes,no,Mansoor Amza
+3,2/27/2024,,Play now button with purple hover effect seems unreadable,This is a suggestion,This is a suggestion,yes,no,Mansoor Amza
+4,2/28/2024,After first game play tutorial,"ex user case: After the tutorial I get thesame message about me being a new player, yes or no option",I expected to not be asked that question because I already answered it,I got asked if I was a new player again,no,no,Mansoor Amza
+5,2/28/2024,Game,ex bug: clicking deck tutorial won't let me play,I expected to play the deck tutorial,I can't play it,yes,Yes,Mansoor Amza
+6,2/28/2024,Game,ex bug: clicking deck tutorial exits out or the tutorial side bar,I expected to play the tutorial,I exit the tutorial side bar,yes,yes,Mansoor Amza
+7,2/28/2024,Game,ex bug: tutorial side bar search bar doesn't work,I expected to find the correct tutorial when typing in the search bar ,Didn't get the result I wanted when typing in the search bar,yes,no,Mansoor Amza
